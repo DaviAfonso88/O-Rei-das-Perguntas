@@ -42,9 +42,11 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
 **SINOPSE:** _Jogo de perguntas e respostas voltado a aprendizagem em Matemática._
 
 **PERSONAGENS:**
+
+ | [<img src="blob:https://web.whatsapp.com/f8d84420-d0ab-417b-ab2b-027b38069b23" width=115><br><sub>⚔ Cavaleiro: -HABILIDADE: Forte e indomável. Podendo derrubar varias barreiras da Matemática</sub>] |  [<img src="https://avatars.githubusercontent.com/u/89569055?v=4" width=115><br><sub>Pedro França</sub>](https://github.com/PedroFran2021) |  [<img src="https://avatars.githubusercontent.com/u/89953265?v=4" width=115><br><sub>Davi Afonso</sub>](https://github.com/DaviAfonso88) |  [<img src="https://avatars.githubusercontent.com/u/86690738?v=4" width=115><br><sub>Enzo Xavier</sub>](https://github.com/EnzoSilvaXavier) | [<img src="https://avatars.githubusercontent.com/u/89953265?v=4" width=115><br><sub>Davi Afonso</sub>](https://github.com/DaviAfonso88)
+| :---: | :---: | :---: | :---: | :---: |
    
- ![imagem_2021-12-06_235732](https://user-images.githubusercontent.com/90208620/144957977-ff0b428a-dba5-4733-bd1f-0797fe9a5e84.png)
- <width=115><br><sub>⚔ Cavaleiro: -HABILIDADE: Forte e indomável. Podendo derrubar varias barreiras da Matemática.</sub>
+ ⚔ Cavaleiro: -HABILIDADE: Forte e indomável. Podendo derrubar varias barreiras da Matemática.
 
 🏹 Arqueiro: -HABILIDADE: Velocidade, rápido e preciso como uma flecha.
 

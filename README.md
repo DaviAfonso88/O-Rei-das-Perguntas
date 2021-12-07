@@ -43,18 +43,10 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
 
 **PERSONAGENS:**
 
- | <img src="https://cdna.artstation.com/p/assets/images/images/007/672/550/original/abdulrahman-salem-jump.gif?1507750801" width=250><br><sub>⚔ Cavaleiro: -HABILIDADE: Forte e indomável. Podendo derrubar varias barreiras da Matemática</sub> |  [<img src="https://avatars.githubusercontent.com/u/89569055?v=4" width=115><br><sub>Pedro França</sub>](https://github.com/PedroFran2021) |  [<img src="https://avatars.githubusercontent.com/u/89953265?v=4" width=115><br><sub>Davi Afonso</sub>](https://github.com/DaviAfonso88) |  [<img src="https://avatars.githubusercontent.com/u/86690738?v=4" width=115><br><sub>Enzo Xavier</sub>](https://github.com/EnzoSilvaXavier) | [<img src="https://avatars.githubusercontent.com/u/89953265?v=4" width=115><br><sub>Davi Afonso</sub>](https://github.com/DaviAfonso88)
+ | <img src="https://cdna.artstation.com/p/assets/images/images/007/672/550/original/abdulrahman-salem-jump.gif?1507750801" width=250><br><sub>⚔ Cavaleiro: -HABILIDADE: Forte e indomável. Podendo derrubar varias barreiras da Matemática</sub> |  <img src="https://4.bp.blogspot.com/-gW8bR9TwbQU/WL11Buu07yI/AAAAAAAAY8U/9H2zEJG_7IMfyzeGtiKBguMOkqeC8rmuQCLcB/s1600/Gifs%2Banimados%2BArco%2Be%2BFlecha%2B11.gif" width=170><br><sub>🏹 Arqueiro: -HABILIDADE: Velocidade, rápido e preciso como uma flecha.</sub> |  <img src="https://www.imagensanimadas.com/data/media/711/magico-e-mago-imagem-animada-0038.gif" width=170><br><sub>🔮 Mago: -HABILIDADE: Inteligência, perito na Arte do Calculo Matemático</sub> |  <img src="https://c.tenor.com/Y9XISdcy98wAAAAd/prince-charming-shrek.gif" width=300><br><sub>😎 Modelo: -HABILIDADE: Beleza, com sua Beleza e capricho na Matemática.</sub> | <img src="https://c.tenor.com/xF2gAqNeQPMAAAAM/elf-cartoon.gif" width=115><br><sub>🧝🏻‍♂️ Duende: -HABILIDADE: Sorte, perfeito nos chutes sempre contando com a sorte.</sub>
 | :---: | :---: | :---: | :---: | :---: |
    
- ⚔ Cavaleiro: -HABILIDADE: Forte e indomável. Podendo derrubar varias barreiras da Matemática.
 
-🏹 Arqueiro: -HABILIDADE: Velocidade, rápido e preciso como uma flecha.
-
-🔮 Mago: -HABILIDADE: Inteligência, perito na Arte do Calculo Matemático.
-
-😎 Modelo: -HABILIDADE: Beleza, com sua Beleza e capricho na Matemática.
-
-🧝🏻‍♂️ Duende: -HABILIDADE: Sorte, perfeito nos chutes sempre contando com a sorte.
 # Cronograma Previsto
 
 # Backlog do Produto  

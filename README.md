@@ -59,7 +59,9 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
    Diagrama de Caso de Uso <p> ![Diagrama em branco (1)](https://user-images.githubusercontent.com/90208620/145070858-f5ed02b3-931f-4048-85a6-72fb1e584f7e.png) 
 
       
-
+# Ferramentas Utiizadas
+      
+<a href="https://www.java.com/pt-BR/" target="_blank"> <img src="http://s2.glbimg.com/ISAMH15-7x5uueooUfpwrNr_S5I=/s.glbimg.com/jo/g1/f/original/2011/08/22/22-java-300.jpg" alt="Java" width="40" height="40"/> </a> <a href="https://netbeans.apache.org/download/index.html" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="Netbeans" width="40" height="40"/> </a>
 
    
 # Colaboradores

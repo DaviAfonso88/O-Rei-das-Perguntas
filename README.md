@@ -40,7 +40,7 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
 
    **🎮JOGO: "_O Rei das Perguntas🏰👑 "**_
 
-**SINOPSE:** _Jogo de perguntas e respostas voltado a aprendizagem em Matemática._
+**SINOPSE:** _Jogo de perguntas e respostas voltado para  aprendizagem em Matemática.
 
 **PERSONAGENS:**
 

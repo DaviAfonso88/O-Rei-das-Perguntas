@@ -1,3 +1,7 @@
+![logo_Jogo](https://twitter.com/diaspromanto/status/1468025715190902784/photo/1)
+
+<hr>
+
 # Indíce
 
 * [Documentação](#Documentação)

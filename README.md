@@ -1,4 +1,4 @@
-![logo_Jogo](https://twitter.com/diaspromanto/status/1468025715190902784/photo/1)
+![logo_Jogo](https://github.com/DaviAfonso88/Documentacao/issues/1#issue-1072806226)
 
 <hr>
 

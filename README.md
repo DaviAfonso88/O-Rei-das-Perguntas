@@ -10,8 +10,8 @@
 
 # Indíce
 
-* [Objetivo do Sistema](#Objetivo do Sistema)
-* [Definições e Siglas](#Definições e Siglas)
+* [Objetivo do Sistema](#Objetivo-do-Sistema)
+* [Definições e Siglas](#Definições-e-Siglas)
 * [Coaboradores](#Colaboradores)
 
 

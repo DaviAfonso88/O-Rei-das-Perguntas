@@ -12,6 +12,10 @@
 
 * [Objetivo do Sistema](#Objetivo-do-Sistema)
 * [Definições e Siglas](#Definições-e-Siglas)
+* [Cronograma Previsto](#Cronograma-Previsto)
+* [Backlog do Produto](#Backlog-do-Produto)
+* [Sprint](#Sprint)
+* [Diagramas](#Diagramas)
 * [Coaboradores](#Colaboradores)
 
 
@@ -23,8 +27,15 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
 ![luta](https://user-images.githubusercontent.com/90208620/144949986-a4e9eb11-d77d-4994-8ba0-4b203519e02e.gif)
 
    
-# Definições e Siglas: 
+# Definições e Siglas
 
+# Cronograma Previsto
+
+# Backlog do Produto  
+
+# Sprint
+   
+# Diagramas   
    
 # Colaboradores
 

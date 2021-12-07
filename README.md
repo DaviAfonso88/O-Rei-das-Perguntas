@@ -62,7 +62,7 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
       
 # Ferramentas Utiizadas
       
-<a href="https://www.java.com/pt-BR/" target="_blank"> <img src="http://s2.glbimg.com/ISAMH15-7x5uueooUfpwrNr_S5I=/s.glbimg.com/jo/g1/f/original/2011/08/22/22-java-300.jpg" alt="Java" width="40" height="40"/> </a> <a href="https://netbeans.apache.org/download/index.html" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="Netbeans" width="40" height="40"/> </a>
+<a href="https://www.java.com/pt-BR/" target="_blank"> <img src="http://s2.glbimg.com/ISAMH15-7x5uueooUfpwrNr_S5I=/s.glbimg.com/jo/g1/f/original/2011/08/22/22-java-300.jpg" alt="Java" width="70" height="70"/> </a> <a href="https://netbeans.apache.org/download/index.html" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="Netbeans" width="70" height="70"/> </a>
 
    
 # Colaboradores

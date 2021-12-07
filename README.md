@@ -37,6 +37,21 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
    
 # Definições e Siglas
 
+   **🎮JOGO: "_O Rei das Perguntas🏰👑 "**_
+
+**SINOPSE:** _Jogo de perguntas e respostas voltado a aprendizagem em Matemática._
+
+**PERSONAGENS:**
+
+⚔ Cavaleiro: -HABILIDADE: Forte e indomável. Podendo derrubar varias barreiras da Matemática.
+
+🏹 Arqueiro: -HABILIDADE: Velocidade, rápido e preciso como uma flecha.
+
+🔮 Mago: -HABILIDADE: Inteligência, perito na Arte do Calculo Matemático.
+
+😎 Modelo: -HABILIDADE: Beleza, com sua Beleza e capricho na Matemática.
+
+🧝🏻‍♂️ Duende: -HABILIDADE: Sorte, perfeito nos chutes sempre contando com a sorte.
 # Cronograma Previsto
 
 # Backlog do Produto  

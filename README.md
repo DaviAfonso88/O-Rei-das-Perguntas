@@ -21,6 +21,7 @@
 
 * [Objetivo do Sistema](#Objetivo-do-Sistema)
 * [Definições e Siglas](#Definições-e-Siglas)
+* [Cronograma](#Cronograma)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Diagramas](#Diagramas)
 * [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
@@ -47,6 +48,11 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
 | :---: | :---: | :---: | :---: | :---: |
    
 
+# Cronograma
+   
+   ![crono](https://user-images.githubusercontent.com/90208620/145104400-21c233e8-a5fb-4ef5-a6b9-97d5ca48d633.png)
+
+   
 
 # Backlog do Produto 
    

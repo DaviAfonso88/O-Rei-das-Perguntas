@@ -23,6 +23,7 @@
 * [Definições e Siglas](#Definições-e-Siglas)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Diagramas](#Diagramas)
+* [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
 * [Coaboradores](#Colaboradores)
 
 

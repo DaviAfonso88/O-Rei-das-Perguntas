@@ -20,6 +20,7 @@
 
 O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os jogadores travam uma épica batalha que testa seus conhecimentos e habilidades matemáticas.<p>
 
+![](https://i.gifer.com/Pthr.gif)
    
 # Definições e Siglas: 
 

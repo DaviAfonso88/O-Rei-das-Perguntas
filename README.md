@@ -7,7 +7,7 @@
 
 # Documentação
 
-Objetivo do sistema: O objetivo deste trabalho é desenvolver um jogo de perguntas e respostas.
+Objetivo do sistema: O objetivo deste trabalho é desenvolver um jogo de perguntas e respostas.<p>
 Definições e Siglas: 
 
 

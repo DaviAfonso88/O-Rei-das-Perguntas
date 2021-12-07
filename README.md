@@ -44,7 +44,7 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
 **PERSONAGENS:**
    
  ![imagem_2021-12-06_235732](https://user-images.githubusercontent.com/90208620/144957977-ff0b428a-dba5-4733-bd1f-0797fe9a5e84.png)
- width=115><br><sub>⚔ Cavaleiro: -HABILIDADE: Forte e indomável. Podendo derrubar varias barreiras da Matemática.</sub>
+ <width=115><br><sub>⚔ Cavaleiro: -HABILIDADE: Forte e indomável. Podendo derrubar varias barreiras da Matemática.</sub>
 
 🏹 Arqueiro: -HABILIDADE: Velocidade, rápido e preciso como uma flecha.
 

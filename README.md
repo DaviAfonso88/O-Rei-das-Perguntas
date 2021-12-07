@@ -59,6 +59,8 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
    
    Diagrama de Caso de Uso <p> ![Diagrama em branco (1)](https://user-images.githubusercontent.com/90208620/145070858-f5ed02b3-931f-4048-85a6-72fb1e584f7e.png) 
 
+   Diagrama de Classes <p> ![diagrama](https://user-images.githubusercontent.com/90208620/145102623-ef5051f9-029e-4b61-9557-203df24f7b22.png)
+   
       
 # Ferramentas Utiizadas
       

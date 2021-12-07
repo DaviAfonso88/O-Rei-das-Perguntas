@@ -21,9 +21,7 @@
 
 * [Objetivo do Sistema](#Objetivo-do-Sistema)
 * [Definições e Siglas](#Definições-e-Siglas)
-* [Cronograma Previsto](#Cronograma-Previsto)
 * [Backlog do Produto](#Backlog-do-Produto)
-* [Sprint](#Sprint)
 * [Diagramas](#Diagramas)
 * [Coaboradores](#Colaboradores)
 
@@ -48,7 +46,6 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
 | :---: | :---: | :---: | :---: | :---: |
    
 
-# Cronograma Previsto
 
 # Backlog do Produto 
    
@@ -56,7 +53,6 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
 ![backlog](https://user-images.githubusercontent.com/90208620/145067066-c40fff1c-1de1-4234-85b2-014a7e664589.png)
 
 
-# Sprint
    
 # Diagramas   
    

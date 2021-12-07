@@ -1,9 +1,10 @@
 
-![nome](https://user-images.githubusercontent.com/90208620/144948434-c2c1ac07-63b0-4f47-a459-14025435e2e7.jpg)
-
+![nome](https://user-images.githubusercontent.com/90208620/144948434-c2c1ac07-63b0-4f47-a459-14025435e2e7.jpg) 
 
 
 <hr>
+
+<p align="center">
 
 # Indíce
 
